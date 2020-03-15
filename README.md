@@ -25,7 +25,6 @@ This does not include code for accessing the games memory or code drawing.
                 //DrawBox(rootScreenLocation, headScreenLocation, actors[i].Health);
             }
         }
-
     }
 ```
 ### Result
