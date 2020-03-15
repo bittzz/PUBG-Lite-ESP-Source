@@ -3,7 +3,7 @@
 
 This does not include code for accessing the games memory or for drawing.
 
-### USAGE
+### Usage
 ```C#
     Vector2 screenSize = new Vector2(1920, 1080);
     Game pubg = new Game("PUBGLite-Win64-Shipping", "PUBGLite-Win64-Shipping.exe");
