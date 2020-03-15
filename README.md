@@ -1,5 +1,5 @@
 # PUBG-Lite-C-ESP-Source
-## A ESP base for PUBG Lite 1.4.2.423 written in C#
+## A external ESP base for PUBG Lite 1.4.2.423 written in C#
 
 This does not include code for accessing the games memory or code drawing.
 
